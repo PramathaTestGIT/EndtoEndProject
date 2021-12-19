@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.355 s <<< FAILURE! - in TestSuite
+Framework.Myntratest.NavigationTest[Firefox](1)  Time elapsed: 16.1 s  <<< FAILURE!
+org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: 
+(138, 988) is out of bounds of viewport width (1536) and height (731)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'LAPTOP-QAIF69AF', ip: '192.168.0.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4179c6ed-6d52-458e-b8b2-d754e9858845, actions {actions=[org.openqa.selenium.interactions.Sequence@314b9e4b]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 95.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20211129150630, moz:debuggerAddress: localhost:52696, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\prama\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:52696/devtoo..., se:cdpVersion: 85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4179c6ed-6d52-458e-b8b2-d754e9858845
+	at Framework.Myntratest.NavigationTest(Myntratest.java:70)
+

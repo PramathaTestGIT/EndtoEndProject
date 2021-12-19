@@ -1,0 +1,5 @@
+23:16:34.987 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+23:16:41.196 [main] INFO  Framework.Real_Time_Scenario3Test - Successfully validated Text message
+23:16:41.197 [AsyncHttpClient-1-2] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+23:16:57.888 [main] INFO  Framework.Myntratest - Successfully validated Myntra websiste
+23:16:57.888 [AsyncHttpClient-1-5] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
